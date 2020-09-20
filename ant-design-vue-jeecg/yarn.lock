@@ -871,10 +871,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@jeecg/antd-online-mini@2.2.12":
-  version "2.2.12"
-  resolved "https://registry.npmjs.org/@jeecg/antd-online-mini/-/antd-online-mini-2.2.12.tgz#11d4251ab1abdd2221a744f8311d4080cf6add99"
-  integrity sha512-EU6/1pWy7iDwOt9n9Jy1gK1fziurdAx2ERabkg7QLXgiiwYhRwOgTlMxERo8bNCFdjXPR/k1Gja3+92EjzwczQ==
+"@jeecg/antd-online-mini@2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@jeecg/antd-online-mini/-/antd-online-mini-2.3.0.tgz#26a62946f6ea4bed4867932a32b331fd1b140b73"
+  integrity sha512-0yvBOGaVyDsOkfmJza+L2skBKglehAdscb4YOL10Ey6vKaUl9+Z6bWehF9GmqDV81cBWP3f8X2hSnvTO0D9S8w==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -2921,9 +2921,6 @@ camel-case@^4.1.1:
   version "4.1.1"
   resolved "https://registry.npmjs.org/camel-case/-/camel-case-4.1.1.tgz#1fc41c854f00e2f7d0139dfeba1542d6896fe547"
   integrity sha512-7fa2WcG4fYFkclIvEmxBbTvmibwF2/agfEBc6q3lOpVu0A13ltLsA+Hr/8Hp6kp5f+G7hKi6t8lys6XxP+1K6Q==
-  dependencies:
-    pascal-case "^3.1.1"
-    tslib "^1.10.0"
 
 camelcase-keys@^2.0.0:
   version "2.1.0"

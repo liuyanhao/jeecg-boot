@@ -50,7 +50,6 @@ public class LogDTO implements Serializable {
     private String userid;
 
     public LogDTO(){
-
     }
 
     public LogDTO(String logContent, Integer logType, Integer operatetype){
@@ -65,4 +64,5 @@ public class LogDTO implements Serializable {
         this.operateType = operatetype;
         this.loginUser = loginUser;
     }
+
 }

@@ -1,20 +1,20 @@
 
 
-![JEECG](https://static.oschina.net/uploads/img/201905/24164523_XDhg.png "JeecgBoot低代码开发平台")
+![MAGIC](https://static.oschina.net/uploads/img/201905/24164523_XDhg.png "MagicBoot低代码开发平台")
 
 
 
-JEECG BOOT 低代码开发平台（前后端分离版本）
+MAGIC BOOT 低代码开发平台（前后端分离版本）
 ===============
 
 当前最新版本： 2.3（发布日期：2020-09-14）
 
 
-[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/jeecg-boot/blob/master/LICENSE)
-[![](https://img.shields.io/badge/Author-北京国炬软件-orange.svg)](http://www.jeecg.com)
-[![](https://img.shields.io/badge/version-2.3-brightgreen.svg)](https://github.com/zhangdaiscott/jeecg-boot)
-[![GitHub stars](https://img.shields.io/github/stars/zhangdaiscott/jeecg-boot.svg?style=social&label=Stars)](https://github.com/zhangdaiscott/jeecg-boot)
-[![GitHub forks](https://img.shields.io/github/forks/zhangdaiscott/jeecg-boot.svg?style=social&label=Fork)](https://github.com/zhangdaiscott/jeecg-boot)
+[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/magic-boot/blob/master/LICENSE)
+[![](https://img.shields.io/badge/Author-北京国炬软件-orange.svg)](http://www.magic.com)
+[![](https://img.shields.io/badge/version-2.3-brightgreen.svg)](https://github.com/zhangdaiscott/magic-boot)
+[![GitHub stars](https://img.shields.io/github/stars/zhangdaiscott/magic-boot.svg?style=social&label=Stars)](https://github.com/zhangdaiscott/magic-boot)
+[![GitHub forks](https://img.shields.io/github/forks/zhangdaiscott/magic-boot.svg?style=social&label=Fork)](https://github.com/zhangdaiscott/magic-boot)
 
 
 
@@ -32,24 +32,24 @@ JeecgBoot 是一款基于代码生成器的`低代码`开发平台，零代码�
 
 适用项目
 -----------------------------------
-Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，尤其适合SAAS项目、企业信息管理系统（MIS）、内部办公系统（OA）、企业资源计划系统（ERP）、客户关系管理系统（CRM）等，其半智能手工Merge的开发方式，可以显著提高开发效率70%以上，极大降低开发成本。
+Magic-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，尤其适合SAAS项目、企业信息管理系统（MIS）、内部办公系统（OA）、企业资源计划系统（ERP）、客户关系管理系统（CRM）等，其半智能手工Merge的开发方式，可以显著提高开发效率70%以上，极大降低开发成本。
 
 
 
 技术文档
 -----------------------------------
 
-- 在线演示 ： [http://boot.jeecg.com](http://boot.jeecg.com)
+- 在线演示 ： [http://boot.magic.com](http://boot.magic.com)
 
-- 技术官网：  [http://www.jeecg.com](http://www.jeecg.com)
+- 技术官网：  [http://www.magic.com](http://www.magic.com)
 
-- 开发文档：  [http://doc.jeecg.com](http://doc.jeecg.com/1273753)
+- 开发文档：  [http://doc.magic.com](http://doc.magic.com/1273753)
 
-- 视频教程  ：[JeecgBoot入门视频教程](http://www.jeecg.com/doc/video)
+- 视频教程  ：[JeecgBoot入门视频教程](http://www.magic.com/doc/video)
 
-- 常见问题：  [入门常见问题大全](http://bbs.jeecg.com/forum.php?mod=viewthread&tid=7816&extra=page%3D1)
+- 常见问题：  [入门常见问题大全](http://bbs.magic.com/forum.php?mod=viewthread&tid=7816&extra=page%3D1)
 
-- 更新日志：  [版本日志](http://www.jeecg.com/doc/log)
+- 更新日志：  [版本日志](http://www.magic.com/doc/log)
 
 
 
@@ -58,11 +58,11 @@ Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，
 
 - QQ交流群 ：  ②769925425、③816531124、①284271917（满）
 
-- 反馈问题：  [反馈问题，请按格式发Issues](https://github.com/zhangdaiscott/jeecg-boot/issues/new)
+- 反馈问题：  [反馈问题，请按格式发Issues](https://github.com/zhangdaiscott/magic-boot/issues/new)
 
-- 参与开源：  [欢迎加入JEECG开源团队，共同进步！！](http://www.jeecg.com/doc/join)
+- 参与开源：  [欢迎加入JEECG开源团队，共同进步！！](http://www.magic.com/doc/join)
 
-- Online一分钟：  [1分钟快速学习](https://my.oschina.net/jeecg/blog/3083313)
+- Online一分钟：  [1分钟快速学习](https://my.oschina.net/magic/blog/3083313)
 
 
 为什么选择JEECG-BOOT?
@@ -293,8 +293,8 @@ Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，
 ```
    
 
-### Jeecg Boot 产品功能蓝图
-![功能蓝图](https://static.jeecg.com/upload/test/Jeecg-Boot-lantu202005_1590912449914.jpg "在这里输入图片标题")
+### Magic Boot 产品功能蓝图
+![功能蓝图](https://static.magic.com/upload/test/Magic-Boot-lantu202005_1590912449914.jpg "在这里输入图片标题")
 
 
 后台开发环境和依赖
@@ -304,7 +304,7 @@ Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，
 - jdk8
 - mysql
 - redis
-- 数据库脚本：jeecg-boot\docs\jeecg-boot-mysql.sql
+- 数据库脚本：magic-boot\docs\magic-boot-mysql.sql
 - 默认登录账号： admin/123456
 
 
@@ -319,19 +319,19 @@ Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - 头像裁剪组件
 - [@antv/g2](https://antv.alipay.com/zh-cn/index.html) - Alipay AntV 数据可视化图表
 - [Viser-vue](https://viserjs.github.io/docs.html#/viser/guide/installation)  - antv/g2 封装实现
-- [jeecg-boot-angular 版本](https://gitee.com/dangzhenghui/jeecg-boot)
+- [magic-boot-angular 版本](https://gitee.com/dangzhenghui/magic-boot)
 
 项目下载和运行
 ----
 
 - 拉取项目代码
 ```bash
-git clone https://github.com/zhangdaiscott/jeecg-boot.git
-cd  jeecg-boot/ant-design-jeecg-vue
+git clone https://github.com/zhangdaiscott/magic-boot.git
+cd  magic-boot/ant-design-magic-vue
 ```
 
 1. 安装node.js
-2. 切换到ant-design-jeecg-vue文件夹下
+2. 切换到ant-design-magic-vue文件夹下
 ```
 # 安装yarn
 npm install -g yarn
@@ -432,9 +432,9 @@ yarn run lint
 
 - [Vue](https://cn.vuejs.org/v2/guide)
 
-- [路由/菜单说明](https://gitee.com/jeecg/jeecg-boot/tree/v1.1/ant-design-jeecg-vue/src/router/README.md)
+- [路由/菜单说明](https://gitee.com/magic/magic-boot/tree/v1.1/ant-design-magic-vue/src/router/README.md)
 
-- [ANTD 默认配置项](https://gitee.com/jeecg/jeecg-boot/blob/v1.1/ant-design-jeecg-vue/src/defaultSettings.js)
+- [ANTD 默认配置项](https://gitee.com/magic/magic-boot/blob/v1.1/ant-design-magic-vue/src/defaultSettings.js)
 
 - 其他待补充...
 
@@ -449,4 +449,4 @@ yarn run lint
 
 如果觉得还不错，请作者喝杯咖啡吧 ☺
 
-![](https://static.oschina.net/uploads/img/201903/08155608_0EFX.png)
+![](https://static.oschina.net/uploads/img/201903/08155608_0EFX.png)# magic-boot

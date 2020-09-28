@@ -1,0 +1,54 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<parent>
+		<groupId>org.magicframework.boot</groupId>
+		<artifactId>magic-boot-parent</artifactId>
+		<version>2.3.0</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>magic-boot-module-system</artifactId>
+
+	<repositories>
+		<repository>
+			<id>aliyun</id>
+			<name>aliyun Repository</name>
+			<url>http://maven.aliyun.com/nexus/content/groups/public</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>magic</id>
+			<name>magic Repository</name>
+			<url>http://maven.magic.org/nexus/content/repositories/magic</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+	</repositories>
+
+	<dependencies>
+		<!-- magic base api -->
+		<dependency>
+			<groupId>org.magicframework.boot</groupId>
+			<artifactId>magic-system-local-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.magicframework.boot</groupId>
+			<artifactId>magic-boot-module-demo</artifactId>
+			<version>${magicboot.version}</version>
+		</dependency>
+
+	</dependencies>
+	
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+</project>

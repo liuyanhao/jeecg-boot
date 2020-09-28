@@ -1,0 +1,24 @@
+package org.jeecg.common.exception;
+
+/**
+ *
+ * @author liuyanhao
+ * @date 2020-09-28
+ */
+public class JeecgBootException extends RuntimeException {
+	private static final long serialVersionUID = 1L;
+
+	public JeecgBootException(String message){
+		super(message);
+	}
+	
+	public JeecgBootException(Throwable cause)
+	{
+		super(cause);
+	}
+	
+	public JeecgBootException(String message,Throwable cause)
+	{
+		super(message,cause);
+	}
+}
